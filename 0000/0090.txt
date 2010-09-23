@@ -1,109 +1,111 @@
-すてきなばしょ
-とおいばしょ
-ポケモンえいが
-ポケモンえいが１０
-ポケモンえいが１１
-ポケモンえいが１２
-ポケモンえいが１３
-ポケモンえいが１４
-ポケモンえいが１５
-ポケモンえいが１６
-ポケモンえいが１７
-ポケモンえいが１８
-ポケモンえいが１９
-ポケモンえいが２０
-ポケモンセンター
-ポケモンアニメ
-ＰＣトウキョー
-ＰＣオーサカ
-ＰＣフクオカ
-ＰＣナゴヤ
-ＰＣサッポロ
-ＰＣヨコハマ
+Lovely Place
+Far Away Place
+Pokémon Movie 
+Pokémon Movie 10 
+Pokémon Movie 11
+Pokémon Movie 12
+Pokémon Movie 13
+Pokémon Movie 14
+Pokémon Movie 15
+Pokémon Movie 16
+Pokémon Movie 17
+Pokémon Movie 18
+Pokémon Movie 19
+Pokémon Movie 20
+Pokémon
+Pokémon
+Pokemon
+Pokemon
+Tokyo - Tokyo PC
+Osaka PC
+Fukuoka PC
+Nagoya PC
+Sapporo PC
+Yokohama PC
 WCS
-WCS２０１０
-WCS２０１１
-WCS２０１２
-WCS２０１３
-WCS２０１４
-WCS２０１５
-WCS２０１６
-WCS２０１７
-WCS２０１８
-WCS２０１９
-WCS２０２０
-Ｗｏｒｌｄｓ
-Ｗｏｒｌｄｓ２０１０
-Ｗｏｒｌｄｓ２０１１
-Ｗｏｒｌｄｓ２０１２
-Ｗｏｒｌｄｓ２０１３
-Ｗｏｒｌｄｓ２０１４
-Ｗｏｒｌｄｓ２０１５
-Ｗｏｒｌｄｓ２０１６
-Ｗｏｒｌｄｓ２０１７
-Ｗｏｒｌｄｓ２０１８
-Ｗｏｒｌｄｓ２０１９
-Ｗｏｒｌｄｓ２０２０
+WCS2010
+WCS2011
+WCS2012
+WCS2013
+WCS2014
+WCS2015
+WCS2016
+WCS2017
+WCS2018
+WCS2019
+WCS2020
+Worlds
+Worlds2010
+Worlds2011
+Worlds2012
+Worlds2013
+Worlds2014
+Worlds2015
+Worlds2016
+Worlds2017
+Worlds2018
+Worlds2019
+Worlds2020
 VGE
-VGE２０１０
-VGE２０１１
-VGE２０１２
-VGE２０１３
-VGE２０１４
-VGE２０１５
-VGE２０１６
-VGE２０１７
-VGE２０１８
-VGE２０１９
-VGE２０２０
-ポケモンイベント
+VGE2010
+VGE2011
+VGE2012
+VGE2013
+VGE2014
+VGE2015
+VGE2016
+VGE2017
+VGE2018
+VGE2019
+VGE2020
+Pokemon event
 バトルたいかい
-ゲームイベント
+Game Events
 だいすきクラブ
 ポケモンサンデー
-チャレンジひろば
-バトルチャレンジ
+Plaza Challenge
+Battle Challenge
 トレーナーズコート
 バトルツアー
-コンサート
-Wi-Fiプレゼント
-ポケモンレンジャー
-レンジャーユニオン
+Concert Event
+Wi-Fi Gifts
+Pokemon
+Union Room
 PBR
 PDW
-ポケモンイベント１０
-ポケモンイベント１１
-ポケモンイベント１２
-ポケモンイベント１３
-ポケモンイベント１４
-ポケモンイベント１５
-ポケモンイベント１６
-ポケモンイベント１７
-ポケモンイベント１８
-ポケモンイベント１９
-ポケモンイベント２０
-ポケモンフェスタ
-ポケモンフェスタ１０
-ポケモンフェスタ１１
-ポケモンフェスタ１２
-ポケモンフェスタ１３
-ポケモンフェスタ１４
-ポケモンフェスタ１５
-ポケモンフェスタ１６
-ポケモンフェスタ１７
-ポケモンフェスタ１８
-ポケモンフェスタ１９
-ポケモンフェスタ２０
-ポケパーク
-ポケパーク１０
-ポケパーク１１
-ポケパーク１２
-ポケパーク１３
-ポケパーク１４
-ポケパーク１５
-ポケパーク１６
-ポケパーク１７
-ポケパーク１８
-ポケパーク１９
-ポケパーク２０
+Pokemon event 10
+Pokemon event 11
+Pokemon event 12
+Pokemon event 13
+Pokemon event 14
+Pokemon event 15
+Pokemon event 16
+Pokemon event 17
+Pokemon event 18
+Pokemon event 19
+Pokemon event 20
+Pokemon festa
+Pokemon festa 10
+Pokemon festa 11
+Pokemon festa 12
+Pokemon festa 13
+Pokemon festa 14
+Pokemon festa 15
+Pokemon festa 16
+Pokemon festa 17
+Pokemon festa 18
+Pokemon festa 19
+Pokemon festa 20
+Poképark
+Poképark 10
+Poképark 11
+Poképark 12
+Poképark 13
+Poképark 14
+Poképark 15
+Poképark 16
+Poképark 17
+Poképark 18
+Poképark 19
+Poképark 20
 イベントかいじょう
